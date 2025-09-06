@@ -26,11 +26,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white)  
+![SQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white)  
 
 ---
 
