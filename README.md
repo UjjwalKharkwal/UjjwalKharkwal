@@ -42,12 +42,6 @@
 - 🎮 **Game Responsive Website (2022)** – *Gaming site with animations & user reviews.*
  
 
----
-
-## 📊 GitHub Stats  
-
-![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=UjjwalKharkwal&show_icons=true&theme=radical)  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalKharkwal&layout=compact&theme=radical)  
 
 ---
