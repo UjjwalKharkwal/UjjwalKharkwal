@@ -4,14 +4,16 @@ Hi 👋, I'm Ujjwal Kharkwal
 
 I’m a Computer Science Engineering graduate passionate about building scalable web applications, exploring AI-powered solutions, and solving real-world problems through technology.
 
-💻 Experienced with React.js, Node.js, Express.js, Python, FastAPI, MongoDB & REST APIs
-🧠 Interested in Problem Solving, Data & Business Analysis, Technology, and Building Practical Solutions
-🔧 Built applications with Stripe, Cloudinary, JWT Authentication, MongoDB Atlas & Vercel
-📚 Published research on IoT-based Smart Cities
-🏆 Ranked in the Top 25% at BU Hackathon
-🌱 Continuously learning and building better software
-📫 Reach me at tomailujjwalkharkwal@gmail.com
+##
+- 💻 Experienced with React.js, Node.js, Express.js, Python, FastAPI, MongoDB & REST APIs
+- 🧠 Interested in Problem Solving, Data & Business Analysis, Technology, and Building Practical Solutions
+- 🔧 Built applications with Stripe, Cloudinary, JWT Authentication, MongoDB Atlas & Vercel
+- 📚 Published research on IoT-based Smart Cities
+- 🏆 Ranked in the Top 25% at BU Hackathon
+- 🌱 Continuously learning and building better software
+- 📫 Reach me at tomailujjwalkharkwal@gmail.com
 
+##
 ---
 
 ## 🌐 Connect with me  
