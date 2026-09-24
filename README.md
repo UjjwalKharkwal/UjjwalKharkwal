@@ -78,8 +78,6 @@ I’m a Computer Science Engineering graduate passionate about building scalable
 - 🎮 **Game Responsive Website (2022)** – *Gaming site with animations & user reviews.*
  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalKharkwal&layout=compact&theme=radical)  
-
 ---
 
 ⭐️ From [Ujjwal Kharkwal](https://github.com/UjjwalKharkwal)  
