@@ -1,19 +1,22 @@
-# Hi 👋, I'm Ujjwal Kharkwal  
+Hi 👋, I'm Ujjwal Kharkwal
 
-🚀 **Full-Stack Developer | Competitive Programmer | Research Enthusiast**  
+🚀 Computer Science Graduate | Problem Solver | Tech & Analytics Enthusiast
 
-- 🌱 I’m currently learning **Advanced Full-Stack Development & Machine Learning**  
-- 💻 I work with **C++, Python, JavaScript, React.js, Node.js, Express, MongoDB**  
-- 💡 Ask me about **DSA, REST APIs, React, MongoDB, and Backend Development**  
-- 📫 How to reach me: **tomailujjwalkharkwal@gmail.com**  
-- ⚡ Fun fact: I love creating projects that solve real-world problems 🚀  
+I’m a Computer Science Engineering graduate passionate about building scalable web applications, exploring AI-powered solutions, and solving real-world problems through technology.
+
+💻 Experienced with React.js, Node.js, Express.js, Python, FastAPI, MongoDB & REST APIs
+🧠 Interested in Problem Solving, Data & Business Analysis, Technology, and Building Practical Solutions
+🔧 Built applications with Stripe, Cloudinary, JWT Authentication, MongoDB Atlas & Vercel
+📚 Published research on IoT-based Smart Cities
+🏆 Ranked in the Top 25% at BU Hackathon
+🌱 Continuously learning and building better software
+📫 Reach me at tomailujjwalkharkwal@gmail.com
 
 ---
 
 ## 🌐 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwalkharkwal)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000.svg?logo=github&logoColor=white)](https://github.com/UjjwalKharkwal)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/kharkwalujjwal)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:tomailujjwalkharkwal@gmail.com)  
 
 ---
